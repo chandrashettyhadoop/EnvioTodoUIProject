@@ -32,7 +32,7 @@ Test scenario implemented:
 
 1.Verify that dynamically generated Todo list contains the text which is entered in text box and submitted by clicking Todo button. 
  
-
+Test Report: Used Jasmine report and it is available : target/screenshot folder.
  
 
  
